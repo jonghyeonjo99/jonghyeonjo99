@@ -12,9 +12,21 @@
 </div>
 <br>
 <div align=center>
-	<p>🛠 Tools 🛠</p>
+	<p>📜 Database 📜</p>
+	<img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" />
+</div>
+<br>
+<div align=center>
+	<p>👷 Framework 👷‍♂️</p>
+	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+</div>
+<br>
+<div align=center>
+	<p>🛠 Deploy 🛠</p>
 </div>
 <div align=center>
+	<img src="https://img.shields.io/badge/AmazonAWS-FF9900?style=flat&logo=amazonaws&logoColor=white" />
 	<img src="https://img.shields.io/badge/IntelliJ%20IDEAE-000000?style=flat&logo=EclipseIDE&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<br>
