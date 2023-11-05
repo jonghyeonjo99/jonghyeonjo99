@@ -29,6 +29,7 @@
 	<img src="https://img.shields.io/badge/AmazonAWS-FF9900?style=flat&logo=amazonaws&logoColor=white" />
 	<img src="https://img.shields.io/badge/IntelliJ%20IDEAE-000000?style=flat&logo=EclipseIDE&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
+	<img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat&logo=Google Cloud&logoColor=white"/>
 	<br>
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
